@@ -5,6 +5,7 @@ from torch.utils.data import DataLoader
 import os
 
 if __name__=="__main__":
+    #TODO: data root
     data_root = '/data/datasets/한국 음식 이미지/김치'
     ckp_dir = "ckp"
     
